@@ -6,6 +6,7 @@ Our mission at the University of Limerick Aeronautical Society (ULAS) | High Pow
 ### ⭐️ Current Projects:
  - Sionna: our first rocket!
  - [Mach24](https://www.exo.events/mach-24): sustainable CanSat and High Powered Rocketry competition
+ - [EuRoc 2024](https://euroc.pt) 
 
 
 ### 🪓 Continuous Initiatives:
