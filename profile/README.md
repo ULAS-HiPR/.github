@@ -4,9 +4,15 @@ Our mission at the University of Limerick Aeronautical Society (ULAS) | High Pow
 
 
 ### ⭐️ Current Projects:
+- Mach26
+- EuRoC 26
+- Race to Space
+
+### Previous Project:
  - Sionna: our first rocket!
  - [Mach24](https://www.exo.events/mach-24): sustainable CanSat and High Powered Rocketry competition
- - [EuRoc 2024](https://euroc.pt) 
+ - [EuRoc 2024](https://euroc.pt)
+ - Mach25
 
 
 ### 🪓 Continuous Initiatives:
