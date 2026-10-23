@@ -3,18 +3,18 @@
 Our mission at the University of Limerick Aeronautical Society (ULAS) | High Powered Rocketry Team (HiPR) is to develop the necessary skills and knowledge to design and operate high powered rockets in order to continue our personal development and prepare us for our future careers.
 
 
-### ⭐️ Current Projects:
-- Mach26
-- EuRoC 26
-- Race to Space
-
-### Previous Project:
- - Sionna: our first rocket!
- - [Mach24](https://www.exo.events/mach-24): sustainable CanSat and High Powered Rocketry competition
- - [EuRoc 2024](https://euroc.pt)
- - Mach25
+### ⭐️ Current Competetions:
+- IREC 27
+- EuRoC 27
+- Race to Space 27
+- IIRC 27
 
 
-### 🪓 Continuous Initiatives:
-- [AI-utils](https://github.com/ULAS-HiPR/AI-utils): our open-source ML repository where we publish our experiments and scripts.
-- [Relay](https://github.com/ULAS-HiPR/relay): a modular monoliths architected processing chain for CanSats on limited hardware with MQ and system services.
+
+### 🪓 Ongoing Projects:
+- [Ogma V2](): Our SRAD, fully custom flight computer family, including the main computer, the propulsion board, and many other modules.
+- [HiPR Deck](): Our bespoke ground station, to receive and send data on the ground.
+- [Faigh](): Rack style, fully modular, DAQ and control system, used for anything from liquid test stands, to the filling the rocket at the launch rail.
+
+### ✅ Finished Projects:
+ - [Ogma V1](): The first iteration of our SRAD flight computer, now retired.
