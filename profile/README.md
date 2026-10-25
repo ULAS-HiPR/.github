@@ -6,7 +6,7 @@ Our mission at the University of Limerick Aeronautical Society (ULAS) | High Pow
 ### ⭐️ Current Competetions:
 - IREC 27
 - EuRoC 27
-- Race to Space 27
+- Race2Space 27
 - IIRC 27
 
 
