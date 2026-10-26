@@ -15,6 +15,7 @@ Our mission at the University of Limerick Aeronautical Society (ULAS) | High Pow
 - [Ogma V2](): Our SRAD, fully custom flight computer family, including the main computer, the propulsion board, and many other modules.
 - [HiPR Deck](): Our bespoke ground station, to receive and send data on the ground.
 - [Faigh](): Rack style, fully modular, DAQ and control system, used for anything from liquid test stands, to the filling the rocket at the launch rail.
+- Liquid Propulsion Design : Our new, standardized design repo used to design and size liquid propulsion systems (propellant analysis, engine design, feed systems & tanks sizing)
 
 ### ✅ Finished Projects:
  - [Ogma V1](): The first iteration of our SRAD flight computer, now retired.
