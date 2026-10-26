@@ -4,10 +4,10 @@ Our mission at the University of Limerick Aeronautical Society (ULAS) | High Pow
 
 
 ### ⭐️ Current Competetions:
-- IREC 27: details placeholder
-- EuRoC 27: details placeholder
-- Race2Space 27: details placeholder
-- IIRC 27: details placeholder
+- [IREC 27](https://github.com/ULAS-HiPR/IREC-27): details placeholder
+- [EuRoC 27](https://github.com/ULAS-HiPR/EuRoC-27): details placeholder
+- [Race2Space 27](https://github.com/ULAS-HiPR/R2S-27): details placeholder
+- [IIRC 27](https://github.com/ULAS-HiPR/IIRC-27): details placeholder
 
 
 
